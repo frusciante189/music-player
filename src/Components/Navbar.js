@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className="flex md:justify-around justify-between md:px-0 sm:px-5 px-2  min-h-[10vh] items-center text-slate-700 dark:text-slate-200">
       <h1 className="text-xl select-none hover:underline underline-offset-auto hover:decoration-pink-400 hover:decoration-2 cursor-pointer">
-        Fruisfy
+        Frusify
       </h1>
       <div className="flex items-center">
         <button
