@@ -13,9 +13,9 @@ const DarkMode = () => {
     <div className="text-gray-100 flex items-center justify-center px-3 ">
       <button className="text-sm md:w-1/2" onClick={themeHandler}>
         {theme === "light" ? (
-          <HiSun size={24} className="fill-pink-400" />
-        ) : (
           <HiMoon size={24} className="fill-pink-400" />
+        ) : (
+          <HiSun size={24} className="fill-pink-400" />
         )}
       </button>
     </div>
