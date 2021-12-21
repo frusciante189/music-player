@@ -73,7 +73,7 @@ input[type="range"]::-moz-range-thumb {
   height: 10px;
   width: 20px;
   border-radius: 100%;
-  background: #a21caf;
+  background: #a21caf !important;
   cursor: pointer;
   -webkit-appearance: none;
   margin-top: -3.2px;
