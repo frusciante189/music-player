@@ -99,7 +99,7 @@ const Player = () => {
         </span>
       </div>
       {/* play control  */}
-      <div className="flex items-center md:w-1/2 w-3/5 p-4">
+      <div className="flex lg:flex-row flex-col items-center md:w-1/2 w-3/5 p-4">
         <div className="flex justify-between items-center w-3/4">
           <FaAngleLeft
             size={24}
@@ -125,7 +125,7 @@ const Player = () => {
             onClick={() => skipTrackHandler("forward")}
           />
         </div>
-        <div className="w-1/4 flex items-center justify-center space-x-4">
+        <div className="w-1/4 flex items-center justify-center space-x-4 mt-10 lg:mt-0">
           <FaVolumeUp
             size={24}
             className="cursor-pointer fill-slate-700 dark:fill-slate-200"
