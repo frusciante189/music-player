@@ -11,14 +11,13 @@ const Navbar = () => {
         Fruisfy
       </h1>
       <div className="flex items-center">
-            <DarkMode />
         <button
           className="font-medium hover:underline underline-offset-4 hover:decoration-pink-400 hover:decoration-2 text-lg"
           onClick={() => setIsLibraryOpen(!isLibraryOpen)}
         >
           Library
         </button>
-
+       <DarkMode />
       </div>
     </nav>
   );
