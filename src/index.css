@@ -34,11 +34,15 @@ input[type="range"]::-webkit-slider-thumb {
   appearance: none;
   height: 16px;
   width: 16px;
+    background: transparent;
+
 }
 input[type="range"]::-moz-range-thumb {
   appearance: none;
   height: 16px;
   width: 16px;
+    background: transparent;
+
 }
 .track {
   width: 100%;
