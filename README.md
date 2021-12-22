@@ -1,6 +1,6 @@
 # Frusify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frusify is simple media player, built with Reactjs and Tailwind CSS. See the live version [here](https://frusify.vercel.app/)
 
 ## Available Scripts
 
