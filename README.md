@@ -1,6 +1,6 @@
 # Frusify
 
-Frusify is simple media player, built with Reactjs and Tailwind CSS. See the live version [here](https://frusify.vercel.app/)
+Frusify is simple media player, built with Reactjs and Tailwind CSS. See the live version [here](https://music-player-frus.vercel.app/)
 
 ## Screenshots
 
